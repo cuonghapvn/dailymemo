@@ -1,4 +1,4 @@
-​Học Online
+# Học Online
 Coursera: Du học tại chỗ, có khoảng 1500+ khoá, free, từ các trường đỉnh nhất trên thế giới
 https://www.coursera.org/
 Edx: Tương tự Coursera, liên minh sáng lập bởi Harvard và MIT
@@ -23,7 +23,8 @@ Các trang tổng học, phân loại các khóa học:
 http://www.openculture.com/
 http://www.openculture.com/
 https://www.class-central.com/
-Đọc báo
+
+# Đọc báo
 The New Yorker: Cảm nhận cá nhân hay nhất trong tất cả các báo Mỹ, rất nhiều bài đọc của Trạm được dịch từ đây.
 http://www.newyorker.com/
 The Atlantic: Mục Magazine hàng tháng, rất dài và chất.
@@ -65,7 +66,8 @@ Arts & Letters Daily: Điểm các bài báo hàn lâm. Khó đọc nhưng rất
 http://www.aldaily.com/
 Twitter: Sử dụng #longreads để tìm những bài báo hay nhất trong tuần
 https://twitter.com/
-Nghe
+
+# Nghe
 Ted Radio Hour: Các bài Ted có cùng chủ đề được kết hợp lại. Chất lượng nội dung rất cao, phải nghe hàng tuần.
 http://www.npr.org/programs/ted-radio-hour/
 Freakonomics Radio: Từ những người viết nên Kinh tế học hài hước. Cực hay!
@@ -96,7 +98,8 @@ EconTalk: Phỏng vấn nhiều chuyên gia nổi tiếng thế giới, liên qu
 http://www.econtalk.org/
 Revisionist History: Podcast mới của Malcolm Gladwell, nhìn lại lịch sử về 1 sự kiện, con người hay ý tưởng.
 http://revisionisthistory.com/
-Video
+
+# Video
 TED: Quá nổi, không cần bàn
 https://www.ted.com/
 Ted-ed: Bài học nhỏ, từ 5-10’, nhiều chủ đề, có phần câu hỏi và đào sâu
@@ -119,7 +122,8 @@ PragerU: Video hoạt hình về những ý tưởng lớn
 https://www.youtube.com/user/PragerUniversity/videos
 Wisecrack: Phân tích phim
 https://www.youtube.com/user/thugnotes/
-Web Hay
+
+# Web Hay
 Brain Pickings: Nhiều bài về sách và văn hóa đọc
 https://www.brainpickings.org/
 Big Think: Video, Bài báo từ các chuyên gia hàng đầu
@@ -144,7 +148,8 @@ Closer to Truth: Ai thích thiên văn, vật lý, khoa học, tôn giáo. Do PB
 https://www.closertotruth.com/
 Quora: Mạng xã hội hỏi đáp, rất nhiều các chuyên gia trong đủ các ngành.
 https://www.quora.com/
-Debate
+
+# Debate
 Intelligence Squared: Quay các buổi Debate từ các chuyên gia v
 http://www.intelligencesquared.com/
 Munk Debates: Khách mời khủng, của Canada
